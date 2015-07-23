@@ -1,4 +1,3 @@
-/** @jsx React.DOM */
-var React = require('react');
+import React from "react";
 
 React.renderComponent(<h1>Hello React!</h1>, document.body);
